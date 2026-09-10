@@ -26,32 +26,38 @@ Venant d'une bac STAV je me réoriente dans l'informatique avec l'objectif de d�
 
 
 **BTS SIO SISR**
-[Début Septembre 2026] – en cours
-[à distanciel (CNED)]
-[option SISR : Solutions d’Infrastructure, Systèmes et Réseaux]
+Début en Septembre 2026 – en cours
 
-**[Formation précédente — BAC STAV]**
-[Date d'obtention : 2026]
-[Lieu : Chessy Les Mines 69380]
-[Mention assez bien]
+formation en distanciel (via CNED)
+
+option SISR : Solutions d’Infrastructure, Systèmes et Réseaux
+
+**Formation précédente — BAC STAV**
+Date d'obtention : 2026
+Mention assez bien
+
+Lieu : Chessy Les Mines 69380
 
 ---
 
 # Compétences techniques
 
-*(compétences que tu vas aborder cette 1re année, classées par catégorie)*
+*compétences abordées cette 1re année*
 
-### [Systèmes]
--
--
+### Systèmes
+- Gérer le patrimoine informatique
+- Installer, tester et déployer une solution d'infrastructure
+- Exploiter, dépanner et superviser une solution d'infrastructure
 
-### [Réseaux]
--
--
+### Réseaux
+- Concevoir une solution d'infrastructure réseau
+- Répondre aux incidents et aux demandes d'assistance
 
-### [Sécurité]
--
--
+### Sécurité
+- Protéger les données à caractère personnel
+- Préserver l'identité numérique de l'organisation
+- Sécuriser les équipements et les usages des utilisateurs
+- Garantir la disponibilité, l'intégrité et la confidentialité des services face aux cyberattaques
 
 ---
 
@@ -61,6 +67,6 @@ Venant d'une bac STAV je me réoriente dans l'informatique avec l'objectif de d�
 
 # Contact
 
-**Ville :** [Grandris]
-**Téléphone :** [06 44 85 43 78]
-**Email :** [celestin.bouffard07@gmail.com]
+**Ville :** Grandris
+**Téléphone :** 06 44 85 43 78
+**Email :** celestin.bouffard07@gmail.com
