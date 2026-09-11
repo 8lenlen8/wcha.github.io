@@ -8,9 +8,7 @@ title: Célestin Bouffard - Portfolio
 ## Étudiant en informatique, systèmes et réseaux
 ### 1re année BTS SIO option SISR
 
-[photo]
 
-[Lien CV PDF à télécharger]
 
 ---
 
